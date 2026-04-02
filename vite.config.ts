@@ -5,4 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/zytx/', // 这里的名称必须和您的 GitHub 仓库名一致
+  build: {
+    outDir: 'docs',
+    emptyOutDir: true,
+  },
 })
