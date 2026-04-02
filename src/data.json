@@ -1,0 +1,189 @@
+{
+  "categories": [
+    {
+      "id": "general",
+      "title": "综合资源",
+      "links": [
+        { "name": "GitHub", "url": "https://github.com", "description": "全球最大的开源社区与代码托管平台", "icon": "Github", "tags": ["开源", "代码"], "featured": true },
+        { "name": "Google", "url": "https://google.com", "description": "全球领先的搜索引擎", "icon": "Search", "tags": ["搜索"], "featured": true },
+        { "name": "百度", "url": "https://baidu.com", "description": "中文最大的搜索引擎", "icon": "Search", "tags": ["搜索"] },
+        { "name": "知乎", "url": "https://zhihu.com", "description": "中文互联网高质量问答社区", "icon": "MessageSquare", "tags": ["社区", "问答"] },
+        { "name": "今日热榜", "url": "https://tophub.today", "description": "全网热点新闻聚合预览", "icon": "Flame", "tags": ["新闻", "热点"], "hot": true },
+        { "name": "资源百度百科", "url": "http://www.cxy521.com/", "description": "程序员导航资源站", "icon": "Book", "tags": ["资源", "百科"] },
+        { "name": "0818团", "url": "http://www.0818tuan.com/", "description": "生活资源/线报优惠", "icon": "ShoppingBag", "tags": ["生活", "优惠"] }
+      ]
+    },
+    {
+      "id": "danai-resources",
+      "title": "电影电视资源",
+      "links": [
+        { "name": "Grab4K", "url": "https://grab4k.com/", "description": "专注4K UHD蓝光原盘ISO资源", "icon": "Film", "tags": ["4K", "蓝光", "下载"], "featured": true },
+        { "name": "茶杯狐", "url": "https://cupfox.app/", "description": "全网影视资源聚合搜索引擎", "icon": "Search", "tags": ["聚合", "影视"] },
+        { "name": "哔嘀影视", "url": "https://www.btbdys.com/", "description": "高清影视在线与直链下载", "icon": "Play", "tags": ["高清", "下载"], "hot": true },
+        { "name": "4K影视小站", "url": "https://4kysxz.top/", "description": "专业4K蓝光原盘杜比视界资源", "icon": "Tv", "tags": ["4K", "原盘"], "featured": true },
+        { "name": "爱看机器人", "url": "https://www.ikanbot.com/", "description": "简洁无广告的影视搜索引擎", "icon": "Search", "tags": ["无广告", "搜索"] },
+        { "name": "人人影视PRO", "url": "http://www.renren.pro/", "description": "高画质在线影视分享平台", "icon": "Monitor", "tags": ["在线", "高画质"] },
+        { "name": "在线之家", "url": "https://www.zxzj.pro/", "description": "超清影视资源在线观看", "icon": "Home", "tags": ["在线", "超清"], "hot": true },
+        { "name": "4K动漫官网", "url": "https://www.acgdh.top/sites/48.html", "description": "海量蓝光动漫资源免费看", "icon": "Gamepad2", "tags": ["动漫", "蓝光"] },
+        { "name": "囧次元", "url": "https://www.jcy.tv/", "description": "人气动漫在线观影平台", "icon": "Tv", "tags": ["动漫", "在线"] },
+        { "name": "低端影视", "url": "https://ddys.pro", "description": "高品质、无广告影视站", "icon": "Film", "tags": ["高品质", "无广告"], "featured": true }
+      ]
+    },
+    {
+      "id": "draw-tools",
+      "title": "在线画图工具",
+      "links": [
+        { "name": "ProcessOn", "url": "https://www.processon.com/", "description": "在线流程图、思维导图工具", "icon": "GitBranch", "tags": ["流程图", "脑图"], "featured": true },
+        { "name": "draw.io", "url": "https://app.diagrams.net/", "description": "强大的开源在线画图工具", "icon": "Box", "tags": ["画图", "开源"] },
+        { "name": "MindLine", "url": "http://www.mindline.cn/webapp", "description": "极简在线思维导图", "icon": "Brain", "tags": ["脑图"] },
+        { "name": "PlantUML", "url": "http://haha98k.com/", "description": "PlantUML 在线编辑器", "icon": "Code", "tags": ["UML", "代码"] },
+        { "name": "亿图脑图", "url": "https://mm.edrawsoft.cn/create", "description": "在线思维导图创作", "icon": "Layers", "tags": ["脑图", "协作"] }
+      ]
+    },
+    {
+      "id": "dev-assist",
+      "title": "在线开发辅助",
+      "links": [
+        { "name": "BASE64编解码", "url": "https://base64.supfree.net/", "description": "Base64 在线转换", "icon": "FileText", "tags": ["编解码"] },
+        { "name": "MD5编码", "url": "https://www.zxgj.cn/g/md5", "description": "MD5 在线加密", "icon": "Lock", "tags": ["加密"] },
+        { "name": "AES/DES加密", "url": "http://www.fly63.com/tool/cipher/", "description": "对称加解密工具", "icon": "Key", "tags": ["安全"] },
+        { "name": "JWT解码", "url": "http://jwt.calebb.net/", "description": "JSON Web Token 解码", "icon": "Unlock", "tags": ["身份认证"] },
+        { "name": "ASCII转换", "url": "https://www.matools.com/code-convert-ascii", "description": "ASCII 码互转", "icon": "Type", "tags": ["编解码"] },
+        { "name": "进制转换", "url": "https://www.zxgj.cn/g/jinzhi", "description": "通用进制互转工具", "icon": "Hash", "tags": ["转换"] },
+        { "name": "时间戳转换", "url": "https://www.zxgj.cn/g/unix", "description": "Unix 时间戳转换", "icon": "Clock", "tags": ["转换"], "hot": true },
+        { "name": "Prettier", "url": "https://prettier.io/playground/", "description": "在线代码格式化", "icon": "Brush", "tags": ["格式化"], "featured": true }
+      ]
+    },
+    {
+      "id": "regex-net",
+      "title": "正则与网络",
+      "links": [
+        { "name": "RegExr", "url": "https://regexr.com/", "description": "在线正则表达式测试调试", "icon": "Search", "tags": ["正则", "调试"], "featured": true },
+        { "name": "Regulex", "url": "https://jex.im/regulex/", "description": "正则表达式可视化", "icon": "Eye", "tags": ["正则", "可视化"] },
+        { "name": "IP138", "url": "https://www.ip138.com/", "description": "IP 地址归属地查询", "icon": "MapPin", "tags": ["IP", "查询"] },
+        { "name": "IPIP.net", "url": "https://www.ipip.net/ip.html", "description": "专业级 IP 查询工具", "icon": "Globe", "tags": ["网络", "专业"] },
+        { "name": "HTTP测试", "url": "http://www.fly63.com/php/http/", "description": "在线接口测试工具", "icon": "Activity", "tags": ["接口", "调试"] }
+      ]
+    },
+    {
+      "id": "compile-run",
+      "title": "在线编译运行",
+      "links": [
+        { "name": "Rextester", "url": "https://rextester.com/", "description": "C#/Java/SQL 在线运行", "icon": "Play", "tags": ["编译", "多语言"] },
+        { "name": "OnlineGDB", "url": "https://www.onlinegdb.com/", "description": "C/C++ 在线编译调试", "icon": "Terminal", "tags": ["调试", "C++"] },
+        { "name": "菜鸟工具", "url": "https://c.runoob.com/", "description": "全套在线编译工具", "icon": "Wrench", "tags": ["工具箱", "学习"] },
+        { "name": "CodePen", "url": "https://codepen.io/", "description": "在线前端代码展示", "icon": "Code2", "tags": ["前端", "演示"], "featured": true }
+      ]
+    },
+    {
+      "id": "material",
+      "title": "在线素材工具",
+      "links": [
+        { "name": "Iconfont", "url": "https://www.iconfont.cn/", "description": "阿里巴巴矢量图标库", "icon": "Shapes", "tags": ["图标", "UI"], "featured": true },
+        { "name": "Feather Icons", "url": "https://feathericons.com/", "description": "开源极简图标库", "icon": "Feather", "tags": ["图标", "开源"] },
+        { "name": "Emoji搜索", "url": "https://emoji.svend.cc/", "description": "Emoji 表情快捷搜索", "icon": "Smile", "tags": ["Emoji"] },
+        { "name": "发表情", "url": "https://fabiaoqing.com/", "description": "表情包在线搜索/制作", "icon": "MessageSquare", "tags": ["表情包"] },
+        { "name": "Unsplash", "url": "https://unsplash.com", "description": "高清摄影素材库", "icon": "Image", "tags": ["高清", "摄影"], "featured": true },
+        { "name": "极简壁纸", "url": "https://bz.zzzmh.cn/", "description": "海量高清 4K 壁纸", "icon": "Monitor", "tags": ["壁纸", "4K"], "hot": true }
+      ]
+    },
+    {
+      "id": "design-make",
+      "title": "设计制作类",
+      "links": [
+        { "name": "在线PS", "url": "https://www.uupoop.com/", "description": "网页版 Photoshop", "icon": "Palette", "tags": ["设计", "P图"], "featured": true },
+        { "name": "Remove.bg", "url": "https://www.remove.bg/zh", "description": "在线图片人工智能抠图", "icon": "Scissors", "tags": ["抠图", "AI"] },
+        { "name": "Carbon", "url": "https://carbon.now.sh/", "description": "精美的代码截图生成", "icon": "Camera", "tags": ["代码", "截图"] },
+        { "name": "BigJPG", "url": "https://bigjpg.com/", "description": "图片智能无损放大", "icon": "Maximize", "tags": ["AI", "图片"] },
+        { "name": "草料二维码", "url": "https://mh.cli.im/", "description": "二维码生成与美化", "icon": "QrCode", "tags": ["二维码"] }
+      ]
+    },
+    {
+      "id": "write-assist",
+      "title": "写作辅助",
+      "links": [
+        { "name": "MarkdownNice", "url": "https://mdnice.com/", "description": "优秀的 Markdown 排版工具", "icon": "Edit3", "tags": ["Markdown", "排版"], "featured": true },
+        { "name": "SM.MS", "url": "https://sm.ms/", "description": "简单好用的图床服务", "icon": "Image", "tags": ["图床", "免费"] },
+        { "name": "PicX", "url": "https://picx.xpoet.cn/", "description": "基于 GitHub 的图床神器", "icon": "Cloud", "tags": ["图床", "GitHub"] },
+        { "name": "在线短链接", "url": "https://urlify.cn/", "description": "简洁的短网址生成", "icon": "Link", "tags": ["短网址"] }
+      ]
+    },
+    {
+      "id": "office",
+      "title": "在线办公",
+      "links": [
+        { "name": "Smallpdf", "url": "https://smallpdf.com/cn/pdf-tools", "description": "一站式 PDF 处理工具", "icon": "FilePdf", "tags": ["PDF", "办公"], "featured": true },
+        { "name": "docsmall", "url": "https://docsmall.com/", "description": "图片/PDF/文件压缩", "icon": "Minimize2", "tags": ["压缩", "文件"] },
+        { "name": "PDF补丁丁", "url": "https://github.com/wmjordan/PDFPatcher", "description": "强大的 PDF 结构修改工具", "icon": "Tool", "tags": ["PDF", "工具"] }
+      ]
+    },
+    {
+      "id": "note-docs",
+      "title": "文档笔记",
+      "links": [
+        { "name": "语雀", "url": "https://www.yuque.com/", "description": "专业的知识库文档工具", "icon": "BookOpen", "tags": ["文档", "协作"], "featured": true },
+        { "name": "印象笔记", "url": "https://www.yinxiang.com/", "description": "多端同步的云笔记", "icon": "Notebook", "tags": ["笔记", "同步"] },
+        { "name": "石墨文档", "url": "https://shimo.im/", "description": "云端协作办公套件", "icon": "FileText", "tags": ["协作", "Office"] }
+      ]
+    },
+    {
+      "id": "learn-sites",
+      "title": "编程学习网",
+      "links": [
+        { "name": "哔哩哔哩", "url": "https://www.bilibili.com/", "description": "海量免费编程教学视频", "icon": "Tv", "tags": ["视频", "学习"], "featured": true },
+        { "name": "StackOverflow", "url": "https://stackoverflow.com/", "description": "全球开发者问答社区", "icon": "HelpCircle", "tags": ["社区", "问答"] },
+        { "name": "牛客网", "url": "https://www.nowcoder.com", "description": "求职面试、编程题库", "icon": "GraduationCap", "tags": ["面试", "求职"] },
+        { "name": "LeetCode", "url": "https://leetcode-cn.com/", "description": "算法刷题必备平台", "icon": "Code", "tags": ["算法", "面试"], "hot": true }
+      ]
+    },
+    {
+      "id": "official-docs",
+      "title": "在线教程文档",
+      "links": [
+        { "name": "Git中文教程", "url": "https://git-scm.com/book/zh/v2", "description": "Git 权威指南", "icon": "GitMerge", "tags": ["Git", "文档"] },
+        { "name": "Nodejs中文网", "url": "http://nodejs.cn/learn", "description": "Node.js 学习路线", "icon": "FileCode", "tags": ["Node", "中文"] },
+        { "name": "SpringBoot文档", "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/", "description": "Spring Boot 官方参考", "icon": "Leaf", "tags": ["Spring", "后端"] },
+        { "name": "Vue.js", "url": "https://cn.vuejs.org/v2/guide/", "description": "渐进式 JavaScript 框架", "icon": "Monitor", "tags": ["前端", "Vue"] }
+      ]
+    },
+    {
+      "id": "study-resource",
+      "title": "考研与考试",
+      "links": [
+        { "name": "51CTO", "url": "https://www.51cto.com/", "description": "专业的 IT 技术学习与培训平台", "icon": "Monitor", "tags": ["IT", "培训"], "featured": true },
+        { "name": "软考官网", "url": "https://www.ruankao.org.cn/", "description": "中国计算机技术职业资格网", "icon": "ShieldCheck", "tags": ["官网", "软考"], "hot": true },
+        { "name": "软考达人", "url": "https://ruankaodaren.com/", "description": "专业的软考刷题与真题模拟平台", "icon": "GraduationCap", "tags": ["刷题", "真题"] },
+        { "name": "希赛网软考", "url": "https://www.educity.cn/rk/", "description": "老牌软考培训与资讯门户", "icon": "BookOpen", "tags": ["培训", "资讯"] },
+        { "name": "信管网", "url": "https://www.cnitpm.com/", "description": "软考高级信息系统项目管理师专业站", "icon": "Layers", "tags": ["高项", "集成"] },
+        { "name": "软考资源库", "url": "https://github.com/xiaomabenten/software_designer", "description": "GitHub 优质软考开源备考资料", "icon": "Github", "tags": ["开源", "资料"] },
+        { "name": "真题网", "url": "https://www.gkzenti.cn/", "description": "考研历年真题集", "icon": "FileText", "tags": ["真题", "考研"] },
+        { "name": "希赛网题库", "url": "https://www.zaixiankaoshi.com/", "description": "专业考试在线题库", "icon": "ClipboardList", "tags": ["考试", "软考"] }
+      ]
+    },
+    {
+      "id": "idea-tools",
+      "title": "IDEA相关",
+      "links": [
+        { "name": "ITMind", "url": "http://www.itmind.net/12257.html", "description": "IDEA 激活教程", "icon": "Unlock", "tags": ["IDEA", "教程"] },
+        { "name": "LookDiv", "url": "https://www.lookdiv.com/index/index/indexcodeindex.html", "description": "简洁的工具资源站", "icon": "Wrench", "tags": ["工具", "IDEA"] }
+      ]
+    },
+    {
+      "id": "intranet-server",
+      "title": "内网与服务器",
+      "links": [
+        { "name": "FRP", "url": "https://github.com/fatedier/frp", "description": "高性能内网穿透", "icon": "ArrowLeftRight", "tags": ["穿透", "开源"], "featured": true },
+        { "name": "宝塔面板", "url": "https://www.bt.cn", "description": "可视化服务器管理", "icon": "Terminal", "tags": ["运维", "面板"] },
+        { "name": "Cloudflare", "url": "https://www.cloudflare.com", "description": "全球网络安全与 CDN", "icon": "ShieldCheck", "tags": ["CDN", "安全"] }
+      ]
+    },
+    {
+      "id": "password-safe",
+      "title": "密码安全",
+      "links": [
+        { "name": "Bitwarden", "url": "https://bitwarden.com", "description": "开源跨平台密码管理", "icon": "Lock", "tags": ["安全", "密码"], "featured": true },
+        { "name": "KeePassXC", "url": "https://keepassxc.org", "description": "本地离线密码安全库", "icon": "Key", "tags": ["安全", "离线"] }
+      ]
+    }
+  ]
+}
